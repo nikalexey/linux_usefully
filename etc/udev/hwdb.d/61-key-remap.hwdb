@@ -1,0 +1,5 @@
+### Smart pointer AT Translated Set 2 keyboard binding example ###
+evdev:input:b0011v0001p0001*
+  KEYBOARD_KEY_1d=capslock    # key marked CAPS LOCK  -> left ctrl
+  KEYBOARD_KEY_3a=leftctrl    # key marked LEFT CTRL  -> capslock
+
